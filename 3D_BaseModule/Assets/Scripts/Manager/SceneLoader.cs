@@ -10,6 +10,7 @@ public class SceneLoader : MonoBehaviour
 {
     /// <summary>
     /// Enum 기반으로 씬을 로드하는 씬 매니저 클래스입니다.
+    /// - 하드코딩된 문자열 사용을 방지하고, 유지보수를 쉽게 합니다.
     /// </summary>
     private static readonly Dictionary<SceneType, string> sceneMap = new Dictionary<SceneType, string>
     {
