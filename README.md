@@ -46,9 +46,8 @@
 │ └─ ObjectPoolManager.cs # 다양한 풀을 string 키로 관리하는 매니저
 │
 └─ README.md # 패키지 소개 및 사용 설명 문서
+---
 
-복사
-편집
 
 
 
